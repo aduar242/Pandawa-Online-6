@@ -1,0 +1,10 @@
+Pandawa Online App
+
+1. Modul Transaksi
+   a. API Transaksi
+   b. Mockup Transaksi
+      - View All Transaksi
+      - View Transaksi by date
+      - Popup Transaksi
+      - Update Transaksi
+   c. UI Transaksi
