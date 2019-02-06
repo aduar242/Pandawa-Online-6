@@ -8,3 +8,13 @@ Pandawa Online App
       - Popup Transaksi
       - Update Transaksi
    c. UI Transaksi
+2. Modul Booking
+   a. API Booking
+   b. Mockup Booking
+      - View All Booking
+      - View Booking by date
+      - Popup Booking
+      - Add Booking
+      - Update Booking
+      - Delete Booking
+   c. UI Booking
