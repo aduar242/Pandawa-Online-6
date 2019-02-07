@@ -18,3 +18,11 @@ Pandawa Online App
       - Update Booking
       - Delete Booking
    c. UI Booking
+3. Modul Login
+   a. Mockup Login
+      - Popup Login
+      - Username
+      - Password
+      - Forget Password
+      - Daftar
+   b. UI Login
